@@ -1,0 +1,13 @@
+body {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   min-height: 100vh;
+   background: #4992ff;
+   color: #fff;
+}
+i {
+   position: absolute;
+   font-size: 80px;
+   cursor: pointer;
+}
